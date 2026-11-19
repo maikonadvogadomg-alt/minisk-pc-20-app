@@ -1,0 +1,31 @@
+{
+  "titulo": "minisk-pc-20",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/ferramentas/banco-neon.html",
+      "nome": "Banco de Dados (Neon)",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/index.html",
+      "nome": "Mini SK",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon.svg"
+    },
+    {
+      "path": "electron/navegador.html",
+      "nome": "🌐 Navegador — Mini SK",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    }
+  ],
+  "sub": "",
+  "logo": "🖥️",
+  "tema": "dourado",
+  "links": []
+}
